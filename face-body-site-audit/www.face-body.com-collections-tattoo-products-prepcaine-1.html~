@@ -1,9 +1,0 @@
-<h3>Product Page</h3>
-<ul class="index-list">
-  <li><img class="full-size" alt="PREPCAINE®" id="ProductPhotoImg" src="//cdn.shopify.com/s/files/1/1153/1468/products/Prepcaine-Bottles_b188b78e-5598-4dc7-9d63-13313e29a3b8_1024x1024.jpg?v=1461011223"/>
-    <span class="current-alt">Current alt="PREPCAINE®"</span> <span class="reco-alt"><strong>good</strong> </span></li>
-  <li><img alt="PREPCAINE®" id="ProductPhotoImg" src="//cdn.shopify.com/s/files/1/1153/1468/products/prepcaine_title.jpg_1024x1024.jpeg?v=1461011223"/>
-    <span class="current-alt">Current alt="PREPCAINE®"</span> <span class="reco-alt"><strong>convert to HTML</strong></span></li>
-  <li><img alt="" src="https://cdn.shopify.com/s/files/1/1153/1468/files/View-the-Chart-Button.jpg?6521665644348825630" width="5%"/>
-    <span class="current-alt">Current alt=""</span> <span class="reco-alt"><strong>convert to HTML</strong></span></li>
-</h3>
