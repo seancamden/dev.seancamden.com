@@ -92,7 +92,73 @@
         </ul>
           </div>
           <div>
-            <!--#include virtual="www.face-body.com-audit-scores-after.html" -->
+        <h2 id="initial-audit" class="improved">Improved Audit Scores</h2>
+        <ul class="index-list improved">
+          <li>
+            <a href="www.face-body.com-20191011T094244-index.html">Homepage</a>
+            <span class="lh-score">Improved Accessibility Score: <strong>98</strong></span>
+          </li>
+          <li>
+            <a href="www.face-body.com-20191011T094629-face-and-body-products-article-1.html">blogs-news-face-and-body-products-article-1</a>
+            <span class="lh-score">Improved Accessibility Score: <strong>98</strong></span>
+          </li>
+          <li>
+            <a href="www.face-body.com-20191011T094901-face-and-body-products-article-2.html">blogs-news-face-and-body-products-article-2</a>
+            <span class="lh-score">Improved Accessibility Score: <strong>98</strong></span>
+          </li>
+          <li>
+            <a href="www.face-body.com-20191011T095006-face-and-body-products-article.html">blogs-news-face-and-body-products-article</a>
+            <span class="lh-score">Improved Accessibility Score: <strong>98</strong></span>
+          </li>
+          <li>
+            <a href="www.face-body.com-20191011T095300-use-face-and-body-products-for-your-tattoo-session-and-press-pause-on-the-pain.html">blogs-news-use-face-and-body-products-for-your-tattoo-session-and-press-pause-on-the-pain</a>
+            <span class="lh-score">Improved Accessibility Score: <strong>98</strong></span>
+          </li>
+          <li>
+            <a>collections-after-care</a>
+            <span class="lh-score">removed</span>
+          </li>
+          <li>
+            <a href="www.face-body.com-20191011T095632-collections-supplies-brochures.html">collections-supplies-brochures</a>
+            <span class="lh-score">Improved Accessibility Score: <strong>100</strong></span>
+          </li>
+          <li>
+            <a href="www.face-body.com-20191011T095752-collections-tattoo.html">collections-tattoo</a>
+            <span class="lh-score">Improved Accessibility Score: <strong>100</strong></span>
+          </li>
+          <li>
+            <a href="www.face-body.com-20191011T095848-collections-web-specials.html">collections-web-specials</a>
+            <span class="lh-score">Improved Accessibility Score: <strong>100</strong></span>
+          </li>
+          <li>
+            <a href="www.face-body.com-20191011T100001-pages-contact-us.html">pages-contact-us</a>
+            <span class="lh-score">Improved Accessibility Score: <strong>100</strong></span>
+          </li>
+          <li>
+            <a href="www.face-body.com-20191011T100201-pages-msds.html">pages-msds</a>
+            <span class="lh-score">Improved Accessibility Score: <strong>95</strong></span>
+          </li>
+          <li>
+            <a href="www.face-body.com-20191011T100255-pages-numbing-charts.html">pages-numbing-charts</a>
+            <span class="lh-score">Improved Accessibility Score: <strong>100</strong></span>
+          </li>
+          <li>
+            <a href="www.face-body.com-20191011T100416-pages-permanent-makeup-pigments.html">pages-permanent-makeup</a>
+            <span class="lh-score">Improved Accessibility Score: <strong>100</strong></span>
+          </li>
+          <li>
+            <a href="www.face-body.com-20191011T100505-pages-policies.html">pages-policies</a>
+            <span class="lh-score">Improved Accessibility Score: <strong>100</strong></span>
+          </li>
+          <li>
+            <a href="www.face-body.com-20191011T100605-pages-shipping-policy.html">pages-shipping-policy</a>
+            <span class="lh-score">Improved Accessibility Score: <strong>98</strong></span>
+          </li>
+          <li>
+            <a href="www.face-body.com-20191011T100654-collections-tattoo-products-prepcaine-1.html">collections-tattoo-products-prepcaine-1</a>
+            <span class="lh-score">Improved Accessibility Score: <strong>100</strong></span>
+          </li>
+        </ul>
           </div>
         </section>
 
