@@ -1,0 +1,147 @@
+      body,h1 {font-family: Roboto, Helvetica, Arial, sans-serif; text-align: center;}
+      body, html {height: 100%}
+      .bgimg {
+        min-height: 100%;
+        margin-bottom: 300px;
+      }
+      a:active, a:hover, a:focus {
+        outline-width: 2;
+        background-color: #ABEDAB;
+      }
+      .slick-prev:hover, .slick-prev:focus, .slick-next:hover, .slick-next:focus {
+        color: transparent;
+        outline: #ABEDAB solid 10px;
+        background-color: #ABEDAB;
+      }
+      .improved strong {
+        background-color: #ABEDAB;
+        padding: 3px;
+      }
+      h2 {
+        margin-top: 50px;
+      }
+      #maincontent {
+        width: 640px;
+        margin: 20px auto;
+      }
+      .display-topleft {
+        position: relative;
+        margin-top: 10px;
+      }
+      .index-list {
+        color: #41595D;
+        padding: 0;
+        list-style: none inside;
+      }
+      .index-list li {
+        border-bottom: 1px dashed #607d8b;
+        margin-bottom: 15px;
+        padding-bottom: 5px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        line-height: 1.75;
+      }
+      .index-list li.with-svg, .copy-list li.with-svg {
+        line-height: 2;
+      }
+      .inline-svg-container {
+        height: 20px;
+        display: inline-block;
+      }
+      .copy-list {
+        width: 75%;
+        margin: 0 auto;
+        text-align: left;
+      }
+      .lh-score {
+        padding-left:5px;
+        white-space: nowrap;
+      }
+      .cd-logo {
+        color: #000000;
+        display: flex;
+      }
+      #cd-logo {
+        height:65px;
+      }
+      #logotype {
+        font-size: medium;
+        align-self: center;
+      }
+      #skiptocontent a {
+        padding:6px;
+        position: absolute;
+        top:-40px;
+        left:0px;
+        color:black;
+        background:#ABEDAB;
+        -webkit-transition: top 1s ease-out;
+        transition: top 1s ease-out;
+        z-index: 100;
+      }
+
+      #skiptocontent a:focus {
+        position:absolute;
+        left:0px;
+        top:0px;
+        outline-color:transparent;
+        -webkit-transition: top .1s ease-in;
+        transition: top .1s ease-in;
+      }
+      .slick-prev::before, .slick-next::before {
+        color: #000000;
+      }
+      .image-thumbs .index-list img, .image-thumbs .index-list img.full-size  {
+        width: 100px;
+      }
+      .image-thumbs img.common-images, .image-thumbs .common-images img {
+        width: unset;
+      }
+      .reco-alt {
+        width: 33%;
+      }
+      .mobile-only {
+        display: none;
+      }
+      @media only screen and (max-width: 767px) {
+        .copy-list {
+          width: 100%;
+        }
+        .mobile-only {
+          display: block;
+        }
+        #maincontent {
+          width: 85%;
+        }
+        #cd-logo {
+          height:45px;
+        }
+        .index-list li {
+          display: block;
+        }
+        #logotype {
+          font-size: small;
+          align-self: center;
+        }
+        .jumbo {
+          font-size: x-large !important;
+        }
+        .display-topleft {
+        }
+        .display-middle {
+          position: relative;
+          top: 0px;
+          left: 0px;
+          transform: none;
+          ms-transform: none;
+        }
+        .display-middle {
+          width: 90%;
+          margin: 0px auto;
+        }
+        .reco-alt {
+          display: block;
+        }
+      }
+

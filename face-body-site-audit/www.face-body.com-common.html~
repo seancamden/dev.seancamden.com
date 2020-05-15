@@ -1,0 +1,19 @@
+<h3>Images common to all pages</h3>
+<ul class="index-list">
+  <li><img alt="Face and Body Professionals, INC" itemprop="logo" src="//cdn.shopify.com/s/files/1/1153/1468/t/15/assets/logo.png?738"/>
+    <span class="current-alt">Current alt="Face and Body Professionals, INC"</span> <span class="reco-alt"><strong>good</strong> </span></li>
+  <li><img class="common-images" alt=" " src="https://cdn.shopify.com/s/files/1/1153/1468/files/Cart-Icon-small.png?2692374211524605488"/>
+    <span class="current-alt">Current alt=" "</span> <span class="reco-alt"><strong>Recommendation</strong><br>alt="Cart"</span></li>
+  <li><img class="common-images" alt=" " src="https://cdn.shopify.com/s/files/1/1153/1468/files/Contact-Us-small.png?10602349768734801163"/>
+    <span class="current-alt">Current alt=" "</span> <span class="reco-alt"><strong>Recommendation</strong><br>alt="Contact Us"</span></li>
+  <li><img class="common-images" alt=" " src="https://cdn.shopify.com/s/files/1/1153/1468/files/Order-Status-Icon-Small.png?9734015706858372488"/>
+    <span class="current-alt">Current alt=" "</span> <span class="reco-alt"><strong>Recommendation</strong><br>alt="Order Status"</span></li>
+  <li><img class="common-images" alt=" " src="https://cdn.shopify.com/s/files/1/1153/1468/files/Sign-In-Small.png?9734015706858372488"/>
+    <span class="current-alt">Current alt=" "</span> <span class="reco-alt"><strong>Recommendation</strong><br>alt="Sign In"</span></li>
+  <li><img class="common-images" alt="American Flag" src="https://cdn.shopify.com/s/files/1/1153/1468/files/Flag-Small.png?11847031385753654075"/>
+    <span class="current-alt">Current alt="American Flag"</span> <span class="reco-alt"><strong>good</strong> </span></li>
+  <li><img alt="Facebook" src="https://cdn.shopify.com/s/files/1/1153/1468/files/Facebook-Icon.jpg?17319195666819478147" style="width:28px;height:28px;"/>
+    <span class="current-alt">Current alt="Facebook"</span> <span class="reco-alt"><strong>good</strong> </span></li>
+  <li><img alt="Instagram" src="https://cdn.shopify.com/s/files/1/1153/1468/files/instagram.jpg?18340427027272359391" style="width:28px;height:28px;"/>
+    <span class="current-alt">Current alt="Instagram"</span> <span class="reco-alt"><strong>good</strong> </span></li>
+</ul>
