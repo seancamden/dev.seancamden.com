@@ -8,9 +8,7 @@
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <link rel="stylesheet" type="text/css" href="css/slick.css"/>
     <link rel="stylesheet" type="text/css" href="css/slick-theme.css"/>
-    <style>
-    <!--#include virtual="styles.css" -->
-    </style>
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
   </head>
   <body>
     <div id="skiptocontent"><a href="#maincontent">skip to main content</a></div>
@@ -26,6 +24,9 @@
         <section class="lazy slider image-thumbs" data-sizes="50vw">
           <div>
             <!--#include virtual="www.face-body.com-audit-scores-initial.html" -->
+          </div>
+          <div>
+            <!--#include virtual="www.face-body.com-audit-scores-after.html" -->
           </div>
         </section>
 
